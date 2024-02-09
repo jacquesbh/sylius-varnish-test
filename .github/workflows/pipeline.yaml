@@ -162,4 +162,4 @@ jobs:
                     cd ~/deployment
                     git add -A
                     git commit -m "Deploy"
-                    clever deploy -a prod --force
+                    clever deploy -a staging --force
