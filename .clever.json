@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_033c0050-ff81-4e94-944e-135b313d464c",
+      "org_id": "user_d658f30b-96a8-45b3-bcfd-720f246516e7",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_033c0050-ff81-4e94-944e-135b313d464c.git",
+      "name": "varnish-staging",
+      "alias": "staging"
+    }
+  ]
+}
